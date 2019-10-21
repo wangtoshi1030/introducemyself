@@ -254,7 +254,7 @@ footer p{
         background-image: url(./img/aaaaa.jpg);
     }
     100%{
-        background-image: url(./img/yelloe.jpeg);
+        background-image: url(/img/yelloe.jpeg);
     }
 
 }
